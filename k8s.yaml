@@ -53,7 +53,7 @@ spec:
     spec:
       containers:
         - name: spring-redis-app
-          image: ramiro/java-spring-redis
+          image: cabrecri/java-spring-redis
           imagePullPolicy: Always
           ports:
             - name: http
