@@ -1,0 +1,4 @@
+com/okteto/items/Application.class
+com/okteto/items/model/Item.class
+com/okteto/items/controller/ItemController.class
+com/okteto/items/repo/ItemRepository.class
